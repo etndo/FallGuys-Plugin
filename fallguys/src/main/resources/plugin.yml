@@ -1,0 +1,14 @@
+name: Fallguys
+version: '${project.version}'
+main: de.etendo.fallguys.main
+api-version: 1.18
+authors: [ eTendo ]
+description: Fall Guys in Minecraft
+
+commands:
+  timer:
+    permission: fallguys.command.timer
+  gamepicker:
+    permission: fallguys.command.matchmaking
+
+

@@ -1,0 +1,12 @@
+de\etendo\fallguys\scoreboard\EntryName.class
+de\etendo\fallguys\scoreboard\ScoreboardBuilder.class
+de\etendo\fallguys\timer\Timer$1.class
+de\etendo\fallguys\scoreboard\Scoreboard.class
+de\etendo\fallguys\scoreboard\Scoreboard$1.class
+de\etendo\fallguys\timer\Timer.class
+de\etendo\fallguys\commands\MatchmakingCommands.class
+de\etendo\fallguys\listeners\JoinListener.class
+de\etendo\fallguys\listeners\QuitListener.class
+de\etendo\fallguys\matchmaking\GamePicker.class
+de\etendo\fallguys\main.class
+de\etendo\fallguys\commands\TimerCommands.class
